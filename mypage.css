@@ -1,0 +1,29 @@
+body {
+  background:linear-gradient(to right, rgb(0, 234, 255), rgb(242, 0, 255));
+}
+#topheader{
+	color: Black;
+text-align:center}
+h1 {
+  color: blue;
+}
+p{
+  color: red;
+}
+img{
+border-radius:25px;
+border:solid 3px
+}
+.btn
+{color:blue;}
+
+hr{
+border-radius:50px;
+}
+table,th,td
+{background-color: rgba(255,0,0,0.3); 
+border:2px solid black;
+}
+a:hover{
+color:green;
+}
